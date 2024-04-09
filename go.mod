@@ -1,4 +1,4 @@
-module kkk
+module github.com/komuw/bencher
 
 go 1.22
 
